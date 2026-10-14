@@ -11,6 +11,8 @@ Estudante de Ciência de Dados com 3 anos de experiência em BPO financeiro. Bus
 ## 📊 Projeto em destaque
 
 ### Dashboard de Investimentos
+<img width="1280" height="718" alt="image" src="https://github.com/user-attachments/assets/e182f170-c087-4a7a-99e5-2912fcf76d5d" />
+
 
 Dashboard desenvolvido no Power BI a partir de uma base em Excel com dados reais de uma carteira de investimentos, utilizados com autorização do titular.
 
